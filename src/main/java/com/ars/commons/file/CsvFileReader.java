@@ -1,6 +1,6 @@
 package com.ars.commons.file;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import java.io.Closeable;
 import java.io.File;
